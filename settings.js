@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'BIXBY-MD USER BOT'
+global.owner = ['94775146742']
+global.premium = ['94775146742']
+global.ownernomer = '94775146742'
+global.ownername = '❮❮☣ᴍʀ.ᴛʜᴀʀᴜᴠᴀ☣❯❯'
+global.botname = 'ᴍ⃐ʀ.ᴛʜᴀʀᴜ⃛ᴠᴀ ᴍᴜ⃜ʟᴛɪ ᴅɪᴠ⃜ɪᴄᴇ ᴡᴀ ʙᴏᴛ'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
@@ -33,7 +33,7 @@ global.packname = 'Queen Bixby MD'
 global.author = 'DARK ALPHA'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '🚢'
+global.sp = '☣'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
